@@ -15,8 +15,8 @@ A Unity-based 3D game where the player controls a rolling ball to collect items 
 - Language: C#
 - Type: Solo Project
 
-## ▶️ Try the Game
-👉 [Download Here](#) *(Upload link on itch.io or Google Drive)*
+▶️ Try the Game
+Download Here : https://drive.google.com/drive/folders/1AVbiz5aFuiI4FblPOTeT-d3UtCX8Kkgi?usp=sharing
 
 🧠 Developed By:
 Amina Javed
